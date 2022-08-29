@@ -42,3 +42,6 @@ Implementasi Rancangan User Interface (UI) Kalkulator Sederhana menggunakan figm
 4.) Fungsi Pembagian
 
 ![Gambar Operasi Aritmatika Bagi](img-readme/bagi.jpg)
+
+# Credits
+> Iftah Fahmi Waladi
