@@ -1,0 +1,36 @@
+body{
+    font-family: 'Inter';
+    font-style: normal;
+}
+p{
+    line-height: 24px;
+}
+.calculator{
+    position: absolute;
+    width: 343.2px;
+    height: 400px;
+    left: 60px;
+    top: 77px;
+    background: #D9D9D9;
+}
+.title-calc{
+    text-align: center;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.btn{
+    width: 41.08px;
+    height: 36.92px;
+}
+.hasil{
+    margin: 0 15px;
+    width: 276.12px;
+    height: 90px;
+    background: #FFFBFB;
+}
+
